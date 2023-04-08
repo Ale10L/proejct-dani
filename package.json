@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sass": "^1.61.0"
+  },
+  "scripts": {
+    "compile-sass": "node compile-sass.js"
+  }
+}
+
